@@ -1,1 +1,1 @@
-<img src="https://github.com/peikoko/peikoko/blob/master/peiko.svg?sanitize=true">
+<img src="https://github.com/peikoko/peikoko/blob/master/peiko.svg">
